@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Array (Advance Swift).playground">
+   </FileRef>
+   <FileRef
+      location = "group:Dictionary &amp; Set.playground">
+   </FileRef>
+   <FileRef
+      location = "group:HigherOrderFunctions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Compiler Flags.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ConvertDays.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MemoryManagement.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PageControl.playground">
+   </FileRef>
+   <FileRef
+      location = "group:String.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Optional.playground">
+   </FileRef>
+</Workspace>
