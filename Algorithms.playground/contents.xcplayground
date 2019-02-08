@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Stack'/>
+        <page name='Queue'/>
+        <page name='Linked List'/>
+        <page name='Bubble Sort'/>
+        <page name='Insertion Sort'/>
+        <page name='Merge Sort'/>
+        <page name='Quick Sort'/>
+        <page name='Selection Sort'/>
+        <page name='Heap Sort'/>
+        <page name='Tree'/>
+        <page name='Graph'/>
+        <page name='Djikstra&apos;s Algorithm'/>
+        <page name='Tries'/>
+        <page name='Depth First Search'/>
+        <page name='Breadth First Search'/>
+        <page name='Prim&apos;s Algorithm'/>
+        <page name='Kruskal&apos;s Algorithm'/>
+        <page name='Memoization'/>
+    </pages>
+</playground>
