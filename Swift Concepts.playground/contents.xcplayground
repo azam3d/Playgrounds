@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='HigherOrderFunctions'/>
+        <page name='Completion'/>
+        <page name='Date'/>
+        <page name='Result'/>
+        <page name='Delegate'/>
+        <page name='DispatchAfter'/>
+        <page name='Labeled Statements'/>
+        <page name='Method Swizzling'/>
+        <page name='Protocol'/>
+        <page name='Break &amp; Continue'/>
+        <page name='Closure'/>
+        <page name='Error Handling'/>
+        <page name='Protocol Associated Type'/>
+        <page name='State Pattern'/>
+        <page name='Defer'/>
+        <page name='Generic'/>
+        <page name='Method Chaining'/>
+        <page name='Loop'/>
+    </pages>
+</playground>

@@ -2,13 +2,22 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Array (Advance Swift).playground">
+      location = "group:PlaygroundSupport.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/azambaderi/Documents/iOSProjects/Playgrounds/Design Patterns.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Swift Concepts.playground">
    </FileRef>
    <FileRef
       location = "group:Dictionary &amp; Set.playground">
    </FileRef>
    <FileRef
-      location = "group:HigherOrderFunctions.playground">
+      location = "group:Array (Advance Swift).playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/azambaderi/Documents/iOSProjects/Playgrounds/MVVM.playground">
    </FileRef>
    <FileRef
       location = "group:Compiler Flags.playground">

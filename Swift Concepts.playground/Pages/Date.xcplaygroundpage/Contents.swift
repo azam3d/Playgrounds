@@ -1,5 +1,5 @@
 
-import UIKit
+import Foundation
 
 var dateString = "28/07/2018 6:00"
 
